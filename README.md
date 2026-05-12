@@ -51,7 +51,3 @@ ChatGPT is slightly better. It follows structural constraints with higher precis
 The various types of Prompts are executed successfully with generated the report.
 
 
-
-
-# Result: Thus the Prompts were exected succcessfully.
-
